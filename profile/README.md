@@ -4,6 +4,8 @@ WillKommen in AI- Imageproceeasing
 This ia a coleection of Projects for AI Applications, Special for Imgemge Processing: <BR>
   Digital Image<BR>
   Video <BR>
+  AI-ImageProcessing Team
+  
   <!--
 
 **Here are some ideas to get you started:**
